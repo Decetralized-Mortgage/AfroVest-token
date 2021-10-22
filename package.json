@@ -1,0 +1,36 @@
+{
+  "name": "afrotoken-sale",
+  "version": "1.0.0",
+  "description": "AFRO Token Sale ICO",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Mutie Mulika/Kelvin Nzuki",
+  "license": "ISC",
+  "github": "https://github.com/Decetralized-Mortgage/AfroVest-token.git",
+  "linkedin": "",
+  "devDependecies": {
+    "lite-server": "^3.5.2"
+  },
+  "dependencies": {
+    "@truffle/contract": "^4.3.5",
+    "truffle-contract": "^4.0.31",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.3.3"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Decetralized-Mortgage/AfroVest-token.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Decetralized-Mortgage/AfroVest-token.git"
+  },
+  "homepage": "https://github.com/Decetralized-Mortgage/AfroVest-token.git#readme"
+}
