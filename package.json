@@ -2,12 +2,12 @@
   "name": "afrotoken-sale",
   "version": "1.0.0",
   "description": "AFRO Token Sale ICO",
-  "main": "truffle-config.js",
+  "main": "set NODE_OPTIONS=--openssl-legacy-provider && truffle-config.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "dev": "lite-server"
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider & lite-server"
   },
   "author": "Mutie Mulika/Kelvin Nzuki",
   "license": "ISC",
